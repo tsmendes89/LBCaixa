@@ -1,0 +1,7 @@
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaLibrary\CaixaLibrary\bin\Debug\Caixa.mdf
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaLibrary\CaixaLibrary\bin\Debug\Caixa_log.ldf
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaLibrary\CaixaLibrary\bin\Debug\CaixaLibrary.dll
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaLibrary\CaixaLibrary\bin\Debug\CaixaLibrary.pdb
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaLibrary\CaixaLibrary\obj\Debug\CaixaLibrary.dll
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaLibrary\CaixaLibrary\obj\Debug\CaixaLibrary.pdb
+C:\Users\Thiago\Documents\Visual Studio 2013\Projects\Caixa\CaixaLibrary\CaixaLibrary\obj\Debug\CaixaLibrary.csprojResolveAssemblyReference.cache
